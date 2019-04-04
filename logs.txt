@@ -1,0 +1,6 @@
+$ git log
+commit 28394f851388060440dc365741b7e01ff0baf187 (HEAD -> logs, origin/master, master)
+Author: unknown <Andrej.Nestorovski@students.finki.ukim.mk>
+Date:   Thu Apr 4 09:42:39 2019 +0200
+
+    Initial commit
